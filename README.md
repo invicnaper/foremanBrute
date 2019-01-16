@@ -4,7 +4,7 @@
 # foremanBrute
 a script that allows you To bruteForce the login page of Foreman
 
-This README would normally document whatever steps are necessary to get spotify-dl up and running.
+This README would normally document whatever steps are necessary to get foremanBrute up and running.
 
 ### What is this repository for? ###
 
