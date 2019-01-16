@@ -49,7 +49,7 @@ to use foremanBrute , you need to install thoses packages :
   * beautifulsoup
   
 # Linux (Ubuntu) / MAC OSx
-pip to install bs4
+pip to install bs
   
     $ pip install beautifulsoup
     
