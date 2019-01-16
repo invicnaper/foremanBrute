@@ -31,7 +31,7 @@ then you can Vagrant up
 
     $ vagrant up
     
-the vagrantfile is configured to use Puppet as a provisoner, which allows you to quickly install dependecies and try foremanbrute.
+the vagrantfile is configured to use Puppet as a provisonner, which allows you to quickly install dependencies and try foremanbrute.
 
 after the vagrant up you can ssh to foremanBrute using
 
