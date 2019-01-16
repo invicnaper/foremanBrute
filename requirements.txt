@@ -1,0 +1,6 @@
+requests
+logging
+argparse
+urllib
+re
+BeautifulSoup
