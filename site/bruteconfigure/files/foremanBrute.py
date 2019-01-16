@@ -142,7 +142,6 @@ if __name__ == "__main__":
      header();
      if args.l and args.p and args.u and args.m:
          # give our arguments more semantic friendly names
-         #https://194.57.5.23/users/login
          if args.debug:
              http_client.HTTPConnection.debuglevel = 1
              logging.basicConfig()
